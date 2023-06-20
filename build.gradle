@@ -1,0 +1,6 @@
+allprojects {
+    group 'net.zoda'
+    version '0.0.1-ALPHA'
+}
+
+description 'A new definition for Minecraft maps'
